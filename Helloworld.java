@@ -6,10 +6,10 @@ public class Helloworld{
         int C = 4*3;
         System.out.println("hello World Malaysia STIA1113");
     }
-    System.out.printIn("A= " +0.5*3*6);
-    System.out.printIn("B= " +0.5*3*4);
-    System.out.printIn("C= " +4*3);
-    System.out.printIn("A+B+C= " +(A+B+C));
+    System.out.println("A= " +0.5*3*6);
+    System.out.println("B= " +0.5*3*4);
+    System.out.println("C= " +4*3);
+    System.out.println("A+B+C= " +(A+B+C));
 
  
  }
